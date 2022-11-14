@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a Postdoctoral Research Fellow at [Courtois Neuromod](https://github.com/courtois-neuromod) project with Prof. Leila Wehbe and Prof. Pierre Bellec in implementing encoding models to predict brain activities of processing the natural language using representations extracted from natural language models. My main interest lies in developing approaches to improve the predictive performance of the neural networks of language models with well-defined features from the cross-model brain representations of naturalistic information processing.
+
+I am a passionate advocate of the development and adoption of the open science and open source tool, practice, and methodology by the widest possible communities to make the information and knowledge fair, transparent, accessible, and inclusive for all! I am also interested in AI Ethics and devoted to implementing and integrating AI methodologies and technologies that serves not only to utility but above all to the humanity! I am actively involved in the various open science communities and unions to make these wishes come true!
+
+
+
 <!--
 **complexbrains/complexbrains** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
