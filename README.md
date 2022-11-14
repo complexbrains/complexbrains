@@ -4,7 +4,7 @@ I am a Postdoctoral Research Fellow at [Courtois Neuromod](https://www.cneuromod
 
 I am a passionate advocate of the development and adoption of the open science/ source tool, practice, and methodologies by the widest possible communities to make the information and knowledge fair, transparent, accessible, and inclusive for all! 
 
-I am also interested in AI Ethics and devoted to implementing and integrating responsible AI methodologies and technologies that serve not just for the sale of utility but above all, for humanity! Currently, I am actively take part in the various open science communities and unions to work towards making these aims to come true!
+I am also interested in AI Ethics and devoted to implementing and integrating responsible AI methodologies and technologies that serve not just for the sake of utility but above all, for humanity! Currently, I am actively take part in the various open science communities and unions to work towards making these aims to come true!
 
 
 <!--
